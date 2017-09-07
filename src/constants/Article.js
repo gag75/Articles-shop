@@ -1,0 +1,3 @@
+export const ARTICLE_INIT   = 'ARTICLE_INIT'
+export const ARTICLE_DEINIT = 'ARTICLE_DEINIT'
+export const ARTICLE_UPDATE = 'ARTICLE_UPDATE'

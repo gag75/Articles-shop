@@ -1,0 +1,36 @@
+.wrap{
+  box-sizing: border-box;
+  padding-left: 270px;
+  padding-right: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.card{
+  flex-grow:1;
+  max-width: 800px;
+  margin: 10px;
+  margin-bottom: 40px;
+}
+.cont{
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+}
+.price{
+  padding-top: 10px;
+  padding-left: 16px;
+  font-size: 24px;
+}
+
+.discount{
+  padding-right: 10px;
+  text-decoration: line-through;
+  color: red;
+}
+.cardHeaderFontSize span{
+  font-size: 18px !important;
+}

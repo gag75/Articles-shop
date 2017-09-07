@@ -1,0 +1,6 @@
+export const USER_LOGIN               = 'USER_LOGIN'
+export const USER_LOGIN_HASH_SUCCESS  = 'USER_LOGIN_HASH_SUCCESS'
+export const USER_LOGIN_HASH_FAIL     = 'USER_LOGIN_HASH_FAIL'
+export const USER_LOGOUT              = 'USER_LOGOUT'
+export const USER_NEW_NAME      = 'USER_NEW_NAME'
+export const USER_NEW_ARTICLE          = 'USER_NEW_ARTICLE'

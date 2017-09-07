@@ -1,0 +1,12 @@
+.error {
+    padding-top: 15px;
+    text-align: center;
+    color: #f44336;
+    font-size: 12px;
+}
+
+.text {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 15px;
+}

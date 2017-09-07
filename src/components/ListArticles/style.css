@@ -1,0 +1,34 @@
+.card{
+  width: 300px;
+  margin: 10px;
+  margin-bottom: 40px;
+}
+.cont{
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.price{
+  padding-top: 10px;
+  padding-left: 16px;
+  font-size: 18px;
+}
+
+.discount{
+  padding-right: 10px;
+  text-decoration: line-through;
+  color: red;
+}
+.btnMore{
+  align-self:center;
+}
+
+.waitCard{
+  box-shadow: none!important;
+  border:1px solid yellow;
+}
+.BuyCard{
+  box-shadow: none!important;
+  border:1px solid #00bcd4;
+}
